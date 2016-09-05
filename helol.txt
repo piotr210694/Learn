@@ -1,1 +1,2 @@
 Nowy dokumencik to JEST
+w cmder
